@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack Júnior`**
 
-Me chamo Israel Alencar do Vale, tenho 24 anos e sou natural do Ceará. Atualmente, estou cursando Ciência da Computação na UFCA. Sou apaixonado por tecnologia e ...
+Me chamo Israel Alencar do Vale, tenho 24 anos e sou natural do Ceará. Atualmente, estou cursando Ciência da Computação na UFCA. Sou apaixonado por tecnologia e calor humano.
 <p align="left">
 
 
